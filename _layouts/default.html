@@ -17,12 +17,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.buildsite.title_revision | relative_url }}">
   </head>
   <body>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name">{{ Anemia en el Perú }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
       <!-- la línea de código de abajo es donde pudeo modificar los botones -->
