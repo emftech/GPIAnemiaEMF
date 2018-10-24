@@ -1,0 +1,374 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gpipossumus.com" resolutions="1x" timestamp="1540354235583">
+  <folder name="css">
+    <file name="site_global.css" crc="4188019920"/>
+    <file name="index.css" crc="4146059763" ref="index"/>
+    <file name="nomq_index.css" crc="4243467745" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u9772.php" crc="69278679" ref="index"/>
+    <file name="form-u10120.php" crc="3802939558" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="328987819" ref="index"/>
+    <file name="cabecera-01.jpg" crc="492754019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="cabecera-02.jpg" crc="524066571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-03.jpg" crc="4287590828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo-creatico-blanco.png" crc="3992455557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quienes-somos.png" crc="336959440" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="que-hacemos.png" crc="482448688" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grafico.png" crc="412497843" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web.png" crc="329871790" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="app.png" crc="484025998" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01proyecto-papeleria-u6943-fr.jpg" crc="3815601316" ref="index"/>
+    <file name="02proyecto-tipografia-u6945-fr.jpg" crc="42805314" ref="index"/>
+    <file name="03proyecto-triptico-u6941-fr.jpg" crc="134671769" ref="index"/>
+    <file name="04proyecto-jugo-u6942-fr.jpg" crc="462686583" ref="index"/>
+    <file name="05proyecto-disco-u6944-fr.jpg" crc="53243342" ref="index"/>
+    <file name="01proyecto-papeleria.jpg" crc="414114145" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02proyecto-tipografia.jpg" crc="348917865" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03proyecto-triptico.jpg" crc="3966878945" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04proyecto-jugo.jpg" crc="395155883" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05proyecto-disco.jpg" crc="3937805282" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure.jpg" crc="4178546232" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="estefano.jpg" crc="3913057993" seo="true" ref="index">
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+    </file>
+    <file name="facebook.png" crc="4240779973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="137129301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="369931805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timana.jpg" crc="4218619206" seo="true" ref="index">
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+    </file>
+    <file name="montoya.jpg" crc="4281095347" seo="true" ref="index">
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+    </file>
+    <file name="taco.jpg" crc="4187793029" seo="true" ref="index">
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+    </file>
+    <file name="comentarios.jpg" crc="4095268176" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comentario01.jpg" crc="4037477797" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comentario02.jpg" crc="309863679" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comentario03.jpg" crc="3775637159" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enviar.png" crc="467490410" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-creatico.png" crc="4082529846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico-facebook.png" crc="3892135980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico-twitter.png" crc="1490722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico-youtube.png" crc="100862929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inicio-normal.png" crc="10135371" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02proyecto-tipografia-u6945-fr2.jpg" crc="283865049" ref="index"/>
+    <file name="03proyecto-triptico-u6941-fr2.jpg" crc="3873029645" ref="index"/>
+    <file name="04proyecto-jugo2.jpg" crc="3841079720" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05proyecto-disco2.jpg" crc="282088075" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure-u7428-fr.jpg" crc="4087272629" ref="index"/>
+    <file name="comentarios-u9019-fr.jpg" crc="100511" ref="index"/>
+    <file name="01proyecto-papeleria2.jpg" crc="458382464" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02proyecto-tipografia2.jpg" crc="3772707140" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03proyecto-triptico2.jpg" crc="3984533600" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04proyecto-jugo-u6942-fr2.jpg" crc="3942011334" ref="index"/>
+    <file name="05proyecto-disco-u6944-fr2.jpg" crc="4152814080" ref="index"/>
+    <file name="01proyecto-papeleria-u6938-fr.jpg" crc="3818603362" ref="index"/>
+    <file name="02proyecto-tipografia-u6937-fr.jpg" crc="4150853449" ref="index"/>
+    <file name="03proyecto-triptico-u6936-fr.jpg" crc="69261380" ref="index"/>
+    <file name="04proyecto-jugo-u6935-fr.jpg" crc="4106846174" ref="index"/>
+    <file name="05proyecto-disco-u6934-fr.jpg" crc="3793143487" ref="index"/>
+    <file name="brochure-u7428-fr2.jpg" crc="4043576585" ref="index"/>
+    <file name="menu.png" crc="3935061649" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado2.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01proyecto-papeleria-u6943-fr2.jpg" crc="4243130535" ref="index"/>
+    <file name="02proyecto-tipografia-u6945-fr3.jpg" crc="486580262" ref="index"/>
+    <file name="03proyecto-triptico-u6941-fr3.jpg" crc="4187789836" ref="index"/>
+    <file name="04proyecto-jugo-u6942-fr3.jpg" crc="227352257" ref="index"/>
+    <file name="05proyecto-disco-u6944-fr3.jpg" crc="4130283796" ref="index"/>
+    <file name="01proyecto-papeleria-u6938-fr2.jpg" crc="469279555" ref="index"/>
+    <file name="02proyecto-tipografia-u6937-fr2.jpg" crc="4046847793" ref="index"/>
+    <file name="03proyecto-triptico-u6936-fr2.jpg" crc="353936441" ref="index"/>
+    <file name="04proyecto-jugo-u6935-fr2.jpg" crc="388989436" ref="index"/>
+    <file name="05proyecto-disco-u6934-fr2.jpg" crc="4030096567" ref="index"/>
+    <file name="04proyecto-jugo-u6942-fr4.jpg" crc="3956531181" ref="index"/>
+    <file name="05proyecto-disco-u6944-fr4.jpg" crc="3759027559" ref="index"/>
+    <file name="01proyecto-papeleria-u6938-fr3.jpg" crc="4163502713" ref="index"/>
+    <file name="02proyecto-tipografia-u6937-fr3.jpg" crc="1828275" ref="index"/>
+    <file name="03proyecto-triptico-u6936-fr3.jpg" crc="430404965" ref="index"/>
+    <file name="04proyecto-jugo-u6935-fr3.jpg" crc="3914499182" ref="index"/>
+    <file name="05proyecto-disco-u6934-fr3.jpg" crc="68541371" ref="index"/>
+  </folder>
+  <file name="index.html" crc="413419004" seo="true" mt="1540354152243" redirect="true"/>
+</manifest>

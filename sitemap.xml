@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://gpipossumus.com/index.html</loc>
+    <lastmod>2018-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/cabecera-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/cabecera-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/cabecera-03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/logo-creatico-blanco.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/estefano.jpg</image:loc>
+      <image:caption>Lucas Martínez Desarrollador web en Creatico</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/twitter.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/timana.jpg</image:loc>
+      <image:caption>Lucía Fortino diseñadora de interfaces de usuario en Creatico</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/montoya.jpg</image:loc>
+      <image:caption>Pablo González marketing en Creatico</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/taco.jpg</image:loc>
+      <image:caption>Lucas Martínez Desarrollador web en Creatico</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/logo-creatico.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/ico-facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/ico-twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gpipossumus.com/images/ico-youtube.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
